@@ -1,0 +1,17 @@
+﻿-- descompacte o arquivo basedados.zip
+-- abra o pgadmin
+-- cria um novo banco de dados chamados 'livros'
+-- abra o editor de comandos SQL
+-- abra o arquivo '1 - Criacao das Tabelas.sql' e execute os comandos
+-- abra o arquivo '2 - livros.sql' e execute os comandos
+-- abra o arquivo '3 - autor.sql' e execute os comandos
+-- abra o arquivo '4 - edicao.sql' e execute os comandos
+-- abra o arquivo '5 - livroautor.sql' e execute os comandos
+-- abra o arquivo '6 - livrostemp.sql' e execute os comandos
+-- teste os comandos abaixos (um por vez) para ver se funcionou a importação
+
+select count(*) from livros; -- resposta 9999
+select count(*) from autor; -- resposta 9999
+select count(*) from edicao; -- resposta 11511
+select count(*) from livroautor; -- resposta 10011
+select count(*) from livrostemp; -- resposta 999

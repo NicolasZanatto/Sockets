@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "z+cN7wiDDuI8twfqQXM3g2XToRiLJ3RbHRw0tudd8eioq5VCmEYn5xqxKPqDZM7ooU2NqRPYeyL2Ws/1gz3gMw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nicol\\Documents\\UCS\\ProgramacaoParalela\\sockets_C#\\Sockets\\Common\\Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nicol\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\nicol\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
