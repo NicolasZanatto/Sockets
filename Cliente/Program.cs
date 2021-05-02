@@ -54,8 +54,10 @@ namespace Cliente
                         ConsultarLivroPorAnoNumeroEdicao(recebe, envia);
                         break;
                     case eOpcaoEscolhida.RemoverLivro:
+                        RemoverLivroPorNome(recebe, envia);
                         break;
                     case eOpcaoEscolhida.AlterarLivro:
+                        AlterarLivro(recebe, envia);
                         break;
                     case eOpcaoEscolhida.Sair:
                         continuar = false;
@@ -108,6 +110,33 @@ namespace Cliente
             var numero = Convert.ToChar(Console.ReadLine());
             var consulta = new ConsultarLivroPorAnoNumeroEdicaoInputModel(ano, numero);
             var data = JsonConvert.SerializeObject(consulta);
+
+            envia.Write(data);
+            Console.WriteLine("Resultado:");
+            Console.WriteLine(recebe.ReadString());
+        }
+
+        public static void RemoverLivroPorNome(BinaryReader recebe, BinaryWriter envia)
+        {
+            Console.WriteLine("Digite o titulo:");
+            var titulo = Console.ReadLine();
+            envia.Write(titulo);
+            Console.WriteLine("Resultado:");
+            Console.WriteLine(recebe.ReadString());
+        }
+        public static void AlterarLivro(BinaryReader recebe, BinaryWriter envia)
+        {
+            Console.WriteLine("Digite o código do livro:");
+            var codigo = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Digite o novo titulo do livro");
+            var titulo = Console.ReadLine();
+            Console.WriteLine("Digite o novo número da edição do livro");
+            var edicao = Convert.ToChar(Console.ReadLine());
+            Console.WriteLine("Digite o novo ano do livro");
+            var ano = Convert.ToInt32(Console.ReadLine());
+
+            var alterarLivro = new AlterarLivroInputModel(codigo, titulo, edicao, ano);
+            var data = JsonConvert.SerializeObject(alterarLivro);
 
             envia.Write(data);
             Console.WriteLine("Resultado:");

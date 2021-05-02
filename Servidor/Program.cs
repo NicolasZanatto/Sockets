@@ -69,9 +69,10 @@ namespace Sockets
                         ConsultarPorAnoNumeroEdicao(envia, recebe, databaseConnection);
                         break;
                     case eOpcaoEscolhida.RemoverLivro:
-
+                        RemoverLivroPorNome(envia, recebe, databaseConnection);
                         break;
                     case eOpcaoEscolhida.AlterarLivro:
+                        AlterarLivro(envia, recebe, databaseConnection);
                         break;
                     case eOpcaoEscolhida.Sair:
                         continuar = false;
@@ -109,6 +110,19 @@ namespace Sockets
             var data = JsonSerializer.Deserialize<ConsultarLivroPorAnoNumeroEdicaoInputModel>(consulta);
             var retorno = databaseConnection.ConsultarLivroPorAnoNumeroEdicao(data.Ano, data.Numero);
             envia.Write(string.IsNullOrEmpty(retorno) ? "Nenhum dado foi encontrado." : retorno);
+        }
+        public static void RemoverLivroPorNome(BinaryWriter envia, BinaryReader recebe, DatabaseConnection databaseConnection)
+        {
+            var nomeLivro = recebe.ReadString();
+            var retorno = databaseConnection.RemoverLivro(nomeLivro);
+            envia.Write(retorno);
+        }
+        public static void AlterarLivro(BinaryWriter envia, BinaryReader recebe, DatabaseConnection databaseConnection)
+        {
+            var consulta = recebe.ReadString();
+            var data = JsonSerializer.Deserialize<AlterarLivroInputModel>(consulta);
+            var retorno = databaseConnection.AlterarLivro(data.CodigoLivro, data.Titulo, data.NumeroEdicao, data.AnoEdicao);
+            envia.Write(retorno);
         }
     }
 }
