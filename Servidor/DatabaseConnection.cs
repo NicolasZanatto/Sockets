@@ -59,7 +59,7 @@ namespace Sockets
                                 inner join livroautor ON livroautor.codigolivro = livros.codigo
                                 inner join autor ON autor.codigo = livroautor.codigoautor
                                 inner join edicao ON edicao.codigolivro = livros.codigo
-                                where edicao.numero = @numeroEdicao or edicao.ano = @anoEdicao
+                                where edicao.numero = @numeroEdicao and edicao.ano = @anoEdicao
                                 order by livros.titulo";
 
                 // Retrieve all rows
@@ -131,7 +131,7 @@ namespace Sockets
 
                         using (var command = new NpgsqlCommand("INSERT INTO autor (codigo, nome) VALUES (@codigo, @nome)", conn))
                         {
-                            command.Parameters.AddWithValue("codigo", proxCodigoLivro);
+                            command.Parameters.AddWithValue("codigo", proxCodigoAutor);
                             command.Parameters.AddWithValue("nome", autor);
 
                             int nRows = command.ExecuteNonQuery();

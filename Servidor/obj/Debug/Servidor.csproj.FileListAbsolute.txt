@@ -20,10 +20,7 @@ C:\Users\nicol\Downloads\sockets_C#\Sockets\Servidor\obj\Debug\Sockets.pdb
 C:\Users\nicol\Documents\UCS\ProgramacaoParalela\sockets_C#\Sockets\Servidor\bin\Debug\Sockets.exe.config
 C:\Users\nicol\Documents\UCS\ProgramacaoParalela\sockets_C#\Sockets\Servidor\bin\Debug\Sockets.exe
 C:\Users\nicol\Documents\UCS\ProgramacaoParalela\sockets_C#\Sockets\Servidor\bin\Debug\Sockets.pdb
-C:\Users\nicol\Documents\UCS\ProgramacaoParalela\sockets_C#\Sockets\Servidor\obj\Debug\Servidor.csprojAssemblyReference.cache
-C:\Users\nicol\Documents\UCS\ProgramacaoParalela\sockets_C#\Sockets\Servidor\obj\Debug\Servidor.csproj.CoreCompileInputs.cache
-C:\Users\nicol\Documents\UCS\ProgramacaoParalela\sockets_C#\Sockets\Servidor\obj\Debug\Sockets.exe
-C:\Users\nicol\Documents\UCS\ProgramacaoParalela\sockets_C#\Sockets\Servidor\obj\Debug\Sockets.pdb
+C:\Users\nicol\Documents\UCS\ProgramacaoParalela\sockets_C#\Sockets\Servidor\bin\Debug\Common.dll
 C:\Users\nicol\Documents\UCS\ProgramacaoParalela\sockets_C#\Sockets\Servidor\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\nicol\Documents\UCS\ProgramacaoParalela\sockets_C#\Sockets\Servidor\bin\Debug\Npgsql.dll
 C:\Users\nicol\Documents\UCS\ProgramacaoParalela\sockets_C#\Sockets\Servidor\bin\Debug\System.Buffers.dll
@@ -35,6 +32,7 @@ C:\Users\nicol\Documents\UCS\ProgramacaoParalela\sockets_C#\Sockets\Servidor\bin
 C:\Users\nicol\Documents\UCS\ProgramacaoParalela\sockets_C#\Sockets\Servidor\bin\Debug\System.Threading.Channels.dll
 C:\Users\nicol\Documents\UCS\ProgramacaoParalela\sockets_C#\Sockets\Servidor\bin\Debug\System.Threading.Tasks.Extensions.dll
 C:\Users\nicol\Documents\UCS\ProgramacaoParalela\sockets_C#\Sockets\Servidor\bin\Debug\System.ValueTuple.dll
+C:\Users\nicol\Documents\UCS\ProgramacaoParalela\sockets_C#\Sockets\Servidor\bin\Debug\Common.pdb
 C:\Users\nicol\Documents\UCS\ProgramacaoParalela\sockets_C#\Sockets\Servidor\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
 C:\Users\nicol\Documents\UCS\ProgramacaoParalela\sockets_C#\Sockets\Servidor\bin\Debug\Npgsql.xml
 C:\Users\nicol\Documents\UCS\ProgramacaoParalela\sockets_C#\Sockets\Servidor\bin\Debug\System.Buffers.xml
@@ -46,6 +44,8 @@ C:\Users\nicol\Documents\UCS\ProgramacaoParalela\sockets_C#\Sockets\Servidor\bin
 C:\Users\nicol\Documents\UCS\ProgramacaoParalela\sockets_C#\Sockets\Servidor\bin\Debug\System.Threading.Channels.xml
 C:\Users\nicol\Documents\UCS\ProgramacaoParalela\sockets_C#\Sockets\Servidor\bin\Debug\System.Threading.Tasks.Extensions.xml
 C:\Users\nicol\Documents\UCS\ProgramacaoParalela\sockets_C#\Sockets\Servidor\bin\Debug\System.ValueTuple.xml
+C:\Users\nicol\Documents\UCS\ProgramacaoParalela\sockets_C#\Sockets\Servidor\obj\Debug\Servidor.csprojAssemblyReference.cache
+C:\Users\nicol\Documents\UCS\ProgramacaoParalela\sockets_C#\Sockets\Servidor\obj\Debug\Servidor.csproj.CoreCompileInputs.cache
 C:\Users\nicol\Documents\UCS\ProgramacaoParalela\sockets_C#\Sockets\Servidor\obj\Debug\Servidor.csproj.CopyComplete
-C:\Users\nicol\Documents\UCS\ProgramacaoParalela\sockets_C#\Sockets\Servidor\bin\Debug\Common.dll
-C:\Users\nicol\Documents\UCS\ProgramacaoParalela\sockets_C#\Sockets\Servidor\bin\Debug\Common.pdb
+C:\Users\nicol\Documents\UCS\ProgramacaoParalela\sockets_C#\Sockets\Servidor\obj\Debug\Sockets.exe
+C:\Users\nicol\Documents\UCS\ProgramacaoParalela\sockets_C#\Sockets\Servidor\obj\Debug\Sockets.pdb

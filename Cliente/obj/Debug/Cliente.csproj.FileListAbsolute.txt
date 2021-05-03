@@ -14,14 +14,9 @@ C:\Users\nicol\Downloads\sockets_C#\Sockets\Cliente\obj\Debug\Cliente.pdb
 C:\Users\nicol\Documents\UCS\ProgramacaoParalela\sockets_C#\Sockets\Cliente\bin\Debug\Cliente.exe.config
 C:\Users\nicol\Documents\UCS\ProgramacaoParalela\sockets_C#\Sockets\Cliente\bin\Debug\Cliente.exe
 C:\Users\nicol\Documents\UCS\ProgramacaoParalela\sockets_C#\Sockets\Cliente\bin\Debug\Cliente.pdb
-C:\Users\nicol\Documents\UCS\ProgramacaoParalela\sockets_C#\Sockets\Cliente\obj\Debug\Cliente.csprojAssemblyReference.cache
-C:\Users\nicol\Documents\UCS\ProgramacaoParalela\sockets_C#\Sockets\Cliente\obj\Debug\Cliente.csproj.CoreCompileInputs.cache
-C:\Users\nicol\Documents\UCS\ProgramacaoParalela\sockets_C#\Sockets\Cliente\obj\Debug\Cliente.exe
-C:\Users\nicol\Documents\UCS\ProgramacaoParalela\sockets_C#\Sockets\Cliente\obj\Debug\Cliente.pdb
 C:\Users\nicol\Documents\UCS\ProgramacaoParalela\sockets_C#\Sockets\Cliente\bin\Debug\Common.dll
-C:\Users\nicol\Documents\UCS\ProgramacaoParalela\sockets_C#\Sockets\Cliente\bin\Debug\Common.pdb
-C:\Users\nicol\Documents\UCS\ProgramacaoParalela\sockets_C#\Sockets\Cliente\obj\Debug\Cliente.csproj.CopyComplete
 C:\Users\nicol\Documents\UCS\ProgramacaoParalela\sockets_C#\Sockets\Cliente\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nicol\Documents\UCS\ProgramacaoParalela\sockets_C#\Sockets\Cliente\bin\Debug\Newtonsoft.Json.dll
 C:\Users\nicol\Documents\UCS\ProgramacaoParalela\sockets_C#\Sockets\Cliente\bin\Debug\System.Buffers.dll
 C:\Users\nicol\Documents\UCS\ProgramacaoParalela\sockets_C#\Sockets\Cliente\bin\Debug\System.Memory.dll
 C:\Users\nicol\Documents\UCS\ProgramacaoParalela\sockets_C#\Sockets\Cliente\bin\Debug\System.Numerics.Vectors.dll
@@ -30,7 +25,9 @@ C:\Users\nicol\Documents\UCS\ProgramacaoParalela\sockets_C#\Sockets\Cliente\bin\
 C:\Users\nicol\Documents\UCS\ProgramacaoParalela\sockets_C#\Sockets\Cliente\bin\Debug\System.Text.Json.dll
 C:\Users\nicol\Documents\UCS\ProgramacaoParalela\sockets_C#\Sockets\Cliente\bin\Debug\System.Threading.Tasks.Extensions.dll
 C:\Users\nicol\Documents\UCS\ProgramacaoParalela\sockets_C#\Sockets\Cliente\bin\Debug\System.ValueTuple.dll
+C:\Users\nicol\Documents\UCS\ProgramacaoParalela\sockets_C#\Sockets\Cliente\bin\Debug\Common.pdb
 C:\Users\nicol\Documents\UCS\ProgramacaoParalela\sockets_C#\Sockets\Cliente\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\nicol\Documents\UCS\ProgramacaoParalela\sockets_C#\Sockets\Cliente\bin\Debug\Newtonsoft.Json.xml
 C:\Users\nicol\Documents\UCS\ProgramacaoParalela\sockets_C#\Sockets\Cliente\bin\Debug\System.Buffers.xml
 C:\Users\nicol\Documents\UCS\ProgramacaoParalela\sockets_C#\Sockets\Cliente\bin\Debug\System.Memory.xml
 C:\Users\nicol\Documents\UCS\ProgramacaoParalela\sockets_C#\Sockets\Cliente\bin\Debug\System.Numerics.Vectors.xml
@@ -39,5 +36,8 @@ C:\Users\nicol\Documents\UCS\ProgramacaoParalela\sockets_C#\Sockets\Cliente\bin\
 C:\Users\nicol\Documents\UCS\ProgramacaoParalela\sockets_C#\Sockets\Cliente\bin\Debug\System.Text.Json.xml
 C:\Users\nicol\Documents\UCS\ProgramacaoParalela\sockets_C#\Sockets\Cliente\bin\Debug\System.Threading.Tasks.Extensions.xml
 C:\Users\nicol\Documents\UCS\ProgramacaoParalela\sockets_C#\Sockets\Cliente\bin\Debug\System.ValueTuple.xml
-C:\Users\nicol\Documents\UCS\ProgramacaoParalela\sockets_C#\Sockets\Cliente\bin\Debug\Newtonsoft.Json.dll
-C:\Users\nicol\Documents\UCS\ProgramacaoParalela\sockets_C#\Sockets\Cliente\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nicol\Documents\UCS\ProgramacaoParalela\sockets_C#\Sockets\Cliente\obj\Debug\Cliente.csprojAssemblyReference.cache
+C:\Users\nicol\Documents\UCS\ProgramacaoParalela\sockets_C#\Sockets\Cliente\obj\Debug\Cliente.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Documents\UCS\ProgramacaoParalela\sockets_C#\Sockets\Cliente\obj\Debug\Cliente.csproj.CopyComplete
+C:\Users\nicol\Documents\UCS\ProgramacaoParalela\sockets_C#\Sockets\Cliente\obj\Debug\Cliente.exe
+C:\Users\nicol\Documents\UCS\ProgramacaoParalela\sockets_C#\Sockets\Cliente\obj\Debug\Cliente.pdb
